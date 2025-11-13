@@ -3,7 +3,7 @@ Build your own flow cell, for use in standardized flow battery and slurry electr
 
 **NOTE: This is precariously maintained/documented and very much a work in progress. Please feel free to reach out to me at mshahabuddin [at] wpi [dot] edu for any questions if attempting to build before fully documented.**
 
-<img width="1029" height="562" alt="image" src="https://github.com/user-attachments/assets/43e4d349-6319-42ee-bcec-71e31c2692a2" />
+<img width="889" height="645" alt="image" src="https://github.com/user-attachments/assets/f7660b28-89c2-4a1b-a4aa-f421d4341ce2" />
 
 
 ## Bill of Materials 
