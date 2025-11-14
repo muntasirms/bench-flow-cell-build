@@ -25,6 +25,7 @@ Build your own flow cell, for use in standardized flow battery and slurry electr
 - Hand drill or drill press
 - Bench vice
 - 1/4"-28 Bottom Tap
+- 3D printer - I use a [Bambu Lab P1P](https://us.store.bambulab.com/products/p1p?srsltid=AfmBOorxZM2FsuT8TszDimVE0fDt-XVHg6vJTsop_jckEfG34v2J09bt)
 
 ## (Non-comprehensive) Instructions
 1. Print parts as per the bill of materials.
